@@ -1,3 +1,5 @@
+This is our participation in the Qur'an QA 2023 Shared Task! Task B: Reading-Comprehension:
+
 Model 1: further the base AraBERT using Classical Arabic (QUQA) and Modern Standard Arabic datasets (ARCD).
 The code is available in "Base AraBERT" file.
 
